@@ -3,23 +3,23 @@ body{
 }
 
 header{
-    background-color: #66b0fc;
+    background-color: purple;
     height: 100px;
 }
 
 nav{
-    background-color: #1fa911;
+    background-color: palevioletred;
     width: 25%;
     height: 500px;
 }
 
 main{
-    background-color: #ca1c43;
+    background-color: rgb(201, 135, 168);
     width: 50%;
 }
 
 aside{
-    background-color: #ffb21c;
+    background-color: pink;
     width: 25%;
 }
 
